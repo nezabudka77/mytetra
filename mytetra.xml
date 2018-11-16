@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/Cinema/color_cinema_Grey.svg" id="1300000000aaaaaaaaa1" name="Программирование">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Программирование" author="" url="" tags="Программирование" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1542369743i4oqsjw71f" name="WEB">
+    <node crypt="" id="1542369802gvsq1btqpj" name="HTML"/>
+    <node crypt="" id="1542369882l10ortc5we" name="CSS"/>
+    <node crypt="" id="1542369812yvxhkl42cx" name="JavaScript"/>
+    <node crypt="" id="154236989448ulc1up76" name="PHP"/>
+   </node>
+  </node>
+ </content>
+</root>
