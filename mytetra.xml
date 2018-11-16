@@ -12,6 +12,13 @@
     <node crypt="" id="1542369882l10ortc5we" name="CSS"/>
     <node crypt="" id="1542369812yvxhkl42cx" name="JavaScript"/>
     <node crypt="" id="154236989448ulc1up76" name="PHP"/>
+    <node crypt="" id="1542372225f1jrqcipys" name="Сервисы">
+     <node crypt="" id="1542372242fjwv9amsf7" name="GitHub">
+      <recordtable>
+       <record id="15423724064m8pl8pd5y" name="Как создать репозиторий на github в linux" author="" url="https://server-gu.ru/create-repo-github-linux/" tags="github, ssh" ctime="20181116154646" dir="1542372406z8g1hb8b5d" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
    </node>
   </node>
  </content>
