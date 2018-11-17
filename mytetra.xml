@@ -10,7 +10,13 @@
    <node crypt="" id="1542369743i4oqsjw71f" name="WEB">
     <node crypt="" id="1542369802gvsq1btqpj" name="HTML"/>
     <node crypt="" id="1542369882l10ortc5we" name="CSS"/>
-    <node crypt="" id="1542369812yvxhkl42cx" name="JavaScript"/>
+    <node crypt="" id="1542369812yvxhkl42cx" name="JavaScript">
+     <node crypt="" id="1542483472n5jpolzrpb" name="NodeJS">
+      <recordtable>
+       <record id="1542483566qirfttnbg9" name="Введение в NodeJs" author="" url="https://youtu.be/C7TFgfY7JdE" tags="nodejs, видео" ctime="20181117223926" dir="15424835665kg34sm65d" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
     <node crypt="" id="154236989448ulc1up76" name="PHP"/>
     <node crypt="" id="1542372225f1jrqcipys" name="Сервисы">
      <node crypt="" id="1542372242fjwv9amsf7" name="GitHub">
